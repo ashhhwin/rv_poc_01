@@ -1,0 +1,25 @@
+Period,Metric,Region,Value
+202401,Contract Miles,East,90
+202401,Drivers,East,50
+202401,Tractors,East,25
+202401,Trips,East,15
+202401,Units,East,10
+202401,WPL Miles,East,5
+202401,Contract Miles,Midwest,90
+202401,Drivers,Midwest,50
+202401,Tractors,Midwest,25
+202401,Trips,Midwest,15
+202401,Units,Midwest,10
+202401,WPL Miles,Midwest,5
+202401,Contract Miles,West,90
+202401,Drivers,West,50
+202401,Tractors,West,25
+202401,Trips,West,15
+202401,Units,West,10
+202401,WPL Miles,West,5
+202401,Contract Miles,TMX,90
+202401,Drivers,TMX,50
+202401,Tractors,TMX,25
+202401,Trips,TMX,15
+202401,Units,TMX,10
+202401,WPL Miles,TMX,5
